@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-	<TITLE>JBossAS7 JSP snoop page for testing only</TITLE>
+	<TITLE>JBossAS7 JSP snoop page for testing only 2</TITLE>
 	<%@ page import="javax.servlet.http.HttpUtils,java.util.Enumeration" %>
 	<%@ page import="java.lang.management.*" %>
 	<%@ page import="java.util.*" %>
